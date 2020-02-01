@@ -1790,6 +1790,17 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+			.image.avatar00 {
+				float: center;
+				width: 96px;
+				height: 96px;
+				background: #f00;
+			}
+	
+				.image.avatar00 img {
+					width: 96px;
+					height: 96px;
+				}
 
 /* List */
 
