@@ -2113,7 +2113,7 @@ input, select, textarea {
 	}
 	#photo {
 		position: center;
-		margin: 5.25em 4.5em 4.5em 5.25em;
+		margin: 1.75em 1.5em 1.5em 1.5em;
 		min-height: 48px;
 		cursor: default;
 	}
